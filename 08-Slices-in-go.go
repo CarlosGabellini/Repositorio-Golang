@@ -26,5 +26,4 @@ func main() {
 	//Abaixo, estamos usando Slice sem presi
 	
 	slice = []string{"Hello", "World", "Family"}
-	fmt.
 }

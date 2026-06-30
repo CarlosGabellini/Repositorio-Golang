@@ -7,6 +7,7 @@ import "fmt"
 
 type Shape interface {
 	getPerimeter() uint
+	getSides() uint
 }
 
 type Square struct {
