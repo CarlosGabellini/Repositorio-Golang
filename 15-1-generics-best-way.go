@@ -14,5 +14,8 @@ func add[T Number] (x T, y T) T {
 
 func main() {
 	value := add(32.453, -24)
+	value1 := add(43.54, -215)
+
 	fmt.Println(value)
+	fmt.Println(value1)
 }
